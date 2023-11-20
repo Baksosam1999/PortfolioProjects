@@ -19,8 +19,7 @@ FROM MyPortfolioProject..Covid__Deaths$
 WHERE continent IS NOT NULL
 ORDER BY 1,2;
 ```
-![SQL_selected_query](https://github.com/SopefoluwaTheAnalyst/COVID-19-SQL-PROJECT/assets/113015818/50034a77-77b8-4b8e-8673-f1eddd7f4d40)
-
+![screenshot of SQL selected query result](/SQL PROJECT IMAGE/SQL_selected_query.jpg
 
 
 3. Likelihood of Death
